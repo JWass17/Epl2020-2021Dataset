@@ -1,0 +1,2 @@
+# Epl2020-2021Dataset
+This is an exploratory analysis project that aimed to find out whether age can influence player performance. Additionally, i embarked on the project to practice steps in data analysis, from loading the data set to data vizualization. i also took the opportunity to understand supervised learning techniques such as regression and how they work. The project was conclusive and i was able to draw conclusions, experience limitations and provide recommendations. 
